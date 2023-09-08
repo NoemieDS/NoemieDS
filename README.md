@@ -1,9 +1,9 @@
 ### Hi there 👋 ! My name is Noémie  🔹 <b>Salut 👋 ! Je m'appelle Noémie</b>
 
-🔹 I'm a senior student living in Montréal 
-🔸 I'm studying programming, design UX/UI and animation at Collège de Maisonneuve 
-🔹 I'm also a visual artist specialized in photography, installation and video 
-📞 I'm eager to engage in collaborative multimedia projects, whether they pertain to virtual or physical environments 
+🔹 I'm a senior student living in Montréal<br> 
+🔸 I'm studying programming, design UX/UI and animation at Collège de Maisonneuve<br> 
+🔹 I'm also a visual artist specialized in photography, installation and video<br> 
+📞 I'm eager to engage in collaborative multimedia projects, whether they pertain to virtual or physical environments<br> 
 
 💖     
   ```
@@ -13,10 +13,10 @@
    | | |/    | | | --  | | | --   
 
 ```
-🔹 Je suis une étudiante de dernière année vivant à Montréal
-🔸 J'étudie la programmation, le design UX/UI et l'animation au Collège de Maisonneuve
-🔹 Je suis également une artiste visuelle spécialisée en photographie, installation et vidéo
-📞 Je suis enthousiaste à l'idée de participer à des projets multimédias collaboratifs, qu'ils concernent des environnements virtuels ou physiques
+🔹 Je suis une étudiante de dernière année vivant à Montréal<br>
+🔸 J'étudie la programmation, le design UX/UI et l'animation au Collège de Maisonneuve<br>
+🔹 Je suis également une artiste visuelle spécialisée en photographie, installation et vidéo<br>
+📞 Je suis enthousiaste à l'idée de participer à des projets multimédias collaboratifs, qu'ils concernent des environnements virtuels ou physiques<br>
 
 
 
