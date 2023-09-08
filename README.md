@@ -1,6 +1,7 @@
 ### Hi there 👋 ! My name is Noémie 
 
-🔭 I'm a senior student living in Montréal / <b>Salut 👋 ! Je m'appelle Noémie</b>
+🔭 I'm a senior student living in Montréal 
+  <span style="color:blue">Salut 👋 ! Je m'appelle Noémie</span>
 
 🌻 I'm studying programming, design UX/UI and animation at Collège de Maisonneuve / <b>J'étudie la programmation, le design UX/UI et l'animation au Collège de Maisonneuve</b>
 
