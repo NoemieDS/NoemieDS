@@ -1,4 +1,23 @@
-### Hi there 👋
+### Hi there 👋 ! My name is Noémie
+
+🔭 I'm a senior student living in Montréal
+
+🌻 I'm studying programming, design UX/UI and animation at Collège de Maisonneuve
+
+⚡ I'm also a visual artist specialized in photography, installation and video
+
+📞 I'm eager to engage in collaborative multimedia projects, whether they pertain to virtual or physical environments
+
+💖     
+  ```
+   /\_/\     /\_/\     /\_/\         
+  ( o.o )   ( ^_^ )  ( =^.^= ) 
+   >   <     >   <     >   <     
+   | | |/    | | | --  | | | --   
+
+```
+
+
 
 <!--
 **NoemieDS/NoemieDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
