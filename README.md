@@ -1,4 +1,4 @@
-### Hi there 👋 ! My name is Noémie   
+### Hi there 👋 ! My name is Noémie   /<b>Salut 👋 ! Je m'appelle Noémie
 
 💖     
   ```
@@ -9,7 +9,7 @@
 
 ```
 
-### <b>Salut 👋 ! Je m'appelle Noémie
+
 
 
 
